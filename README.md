@@ -6,4 +6,6 @@ using web scrapping and TWILIO
 ## create your API key: [visit the WEBSITE](https://www.cricapi.com/)
 
 
-![Uploading ezgif.com-crop.gif…]()
+# Preview
+
+![ezgif com-crop](https://user-images.githubusercontent.com/63898454/90013711-6df92780-dcc3-11ea-8318-ec428596974a.gif)
